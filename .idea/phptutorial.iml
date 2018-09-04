@@ -6,5 +6,15 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="api" />
     <orderEntry type="module" module-name="lara53" />
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/lara2blog/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/lara2blog/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.0.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
